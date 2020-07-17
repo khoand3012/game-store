@@ -1,0 +1,11 @@
+{
+  "name": "gamestore-vue",
+  "version": "1.0.0",
+  "description": "frontend for game store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Duong Khoa",
+  "license": "ISC"
+}
